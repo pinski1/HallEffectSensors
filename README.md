@@ -8,6 +8,8 @@ Many hobby brushless motors do not come with hall effect sensors for position in
 
 These particular ones are designed for 12 slot, 14 pole brushless motors, however the files do contain the formulae to calculate the nessesary spacing for different pole counts.
 
+These versions/copies were inspired by Charles Guan at http://www.etotheipiplusone.net/
+
 ## Purchasing
 
 I'm planning to sell these on Tindie at some point.
@@ -23,6 +25,12 @@ wires
 mounting hardware
 
 ## Alignment Instructions
+
+1. loosely affix the sensor array in it's mounting point. It will need to be slid sideways to align it.
+2. Line up the center sensor with a slot on the stator laminations.
+3. Complete.
+
+For a better guide check out: http://e0designs.com/documentation/hall-effect-sensor-board-adapter-installation/ and http://e0designs.com/documentation/finding-motor-phase-sensor-combinations/
 
 
 # Licence
