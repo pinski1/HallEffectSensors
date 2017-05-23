@@ -45,3 +45,5 @@ eagle.epf
 # layout files
 *.dxf
 
+# issued files
+*.zip
