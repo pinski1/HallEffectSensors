@@ -43,7 +43,7 @@ eagle.epf
 *.lck
 
 # layout files
-*.dxf
+#*.dxf
 
 # issued files
 *.zip
